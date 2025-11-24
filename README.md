@@ -7,7 +7,7 @@
   <h1>Hi there 👋, I'm Mesekir Getachew</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=FullStack+Developer;MERN+Stack+Specialist;Mobile+App+Developer;Tech+Enthusiast+from+Ethiopia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=FullStack+Developer;MERN+%26+Django+Specialist;AWS+%26+Cloud+Enthusiast;Mobile+App+Developer" alt="Typing SVG" />
   </a>
 
   <p>
@@ -28,9 +28,9 @@
 
 <h3>👨‍💻 About Me</h3>
 
-- 📍 I’m a FullStack Developer based in **Ethiopia**.
-- 🔭 I’m currently working on **scalable web applications**.
-- 💬 Ask me about **MERN Stack, React Native, and System Design**.
+- 🔭 I’m currently working on **scalable web applications & cloud architecture**.
+- 💬 Ask me about **MERN, Django, AWS, and System Design**.
+- 🌱 I'm currently learning **Advanced DevOps & Microservices**.
 - 📫 Contact me at: **mesekirsalgech@gmail.com**
 
 ---
@@ -47,18 +47,19 @@
   <tr>
     <td align="center" width="200"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,php,java" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql,firebase,php,java" />
     </td>
   </tr>
   <tr>
     <td align="center" width="200"><b>Mobile</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,android" /> </td>
+      <img src="https://skillicons.dev/icons?i=react,android" />
+    </td>
   </tr>
   <tr>
-    <td align="center" width="200"><b>Tools & Design</b></td>
+    <td align="center" width="200"><b>Cloud & Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,linux,postman,jest,figma,ps,ai,arduino,cpp" />
+      <img src="https://skillicons.dev/icons?i=aws,git,github,linux,postman,jest,figma,ps,ai,arduino,cpp" />
     </td>
   </tr>
 </table>
