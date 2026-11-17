@@ -20,7 +20,7 @@
     <a href="mailto:mesekirsalgech@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://huggingface.co/YOUR-HF-USERNAME" target="blank">
+    <a href="https://huggingface.co/Mesekir" target="blank">
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
     </a>
   </p>
@@ -44,12 +44,12 @@
 A two-stage pipeline that separates deterministic geometric reasoning (MLP direction classifier + Haversine distance) from language generation (Phi-3-mini fine-tuned with QLoRA) on 3,950 OpenStreetMap POIs in Nancy.
 - 96.33% direction accuracy, 99.67% POI-name recall, 93.01% semantic similarity on a 300-pair human-verified gold standard
 - Trained on a single consumer GTX 1080 Ti; 20.49 g CO₂eq tracked with CodeCarbon
-- 🔗 [Repository](https://github.com/mesekir19/YOUR-GEOSPATIAL-REPO)
+- 🔗 [Repository](https://github.com/Mesekir19/supervised_project)
 
 **💬 Joint Emotion–Topic Classification in Student Discourse** · *Université de Lorraine, 2025–2026*
 A multi-task RoBERTa model (shared encoder, topic and multi-label emotion heads) analysing 47,962 post-COVID Reddit posts and comments.
 - Class-weighted loss and iterative pseudo-labeling raised F1 from 0.712 to 0.930 (topic) and 0.173 to 0.427 (emotion)
-- 🔗 [Repository](https://github.com/mesekir19/YOUR-EMOTION-TOPIC-REPO)
+- 🔗 [Repository](https://github.com/mesekir19/)
 
 ---
 
@@ -94,12 +94,6 @@ A multi-task RoBERTa model (shared encoder, topic and multi-label emotion heads)
     </td>
   </tr>
 </table>
-
----
-
-### 🌍 Languages
-
-Amharic (native) · English (advanced) · French (beginner)
 
 ---
 
